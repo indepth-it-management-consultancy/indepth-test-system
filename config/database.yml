@@ -4,7 +4,7 @@ development:
       database: fedena_ultimate
       port: 3306
       username: root
-      password: foradian
+      password: Indepth@2019
 
 test: &test
       host: localhost
@@ -20,6 +20,6 @@ production:
       database: fedena_ultimate
       port: 3306
       username: root
-      password: foradian
+      password: Indepth@2019
 cucumber:
   <<: *test
